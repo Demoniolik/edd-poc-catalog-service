@@ -1,0 +1,1 @@
+# eed-poc-catalog-service
